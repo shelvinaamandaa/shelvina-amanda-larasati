@@ -1,0 +1,8 @@
+{
+  "name": "CoMove Soehat",
+  "description": "A collaborative public service platform for managing urban mobility, safety, and environmental issues through citizen-government participation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
